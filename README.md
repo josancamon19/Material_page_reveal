@@ -1,4 +1,4 @@
-# material_page_reveal
+# Material page reveal
 
 Attempting for recreate the following design:
 [Paper OnBoarding Android by Ramotion](https://github.com/Ramotion/paper-onboarding-android)
